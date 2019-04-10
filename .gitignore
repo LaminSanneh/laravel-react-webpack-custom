@@ -1,9 +1,13 @@
 /node_modules
 /public/hot
-/public/css
-/public/js
-/public/fonts
-/public/images
+/public/css/**
+!/public/css/.hgkeep
+/public/js/**
+!/public/js/.hgkeep
+/public/fonts/**
+!/public/fonts/.hgkeep
+/public/images/**
+!/public/images/.hgkeep
 /public/storage
 /storage/*.key
 /vendor
