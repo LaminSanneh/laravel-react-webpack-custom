@@ -15,4 +15,8 @@ Then run:
 composer install
 ```
 
+Add a .env file (you can copy the one from .env.example)
+
+Run `php artisan key:generate`
+
 Finally run laravel as you normally do. Either ```php artisan serve``` or use a dedicated server to host the application.
